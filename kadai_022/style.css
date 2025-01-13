@@ -22,7 +22,7 @@ h1 {
 }
 
 main {
-  margin: 10px;
+  padding: 10px;
 }
 
 #parent {
@@ -64,6 +64,7 @@ footer {
 }
 
 footer a {
+  display: block;
   color: rgb(255, 255, 255);
 }
 
